@@ -3,7 +3,7 @@ Now with the SwiftUI, managing styles & themes of an iOS app is easiest than eve
 
 
 ## Full Medium Article
-There is a medium article which has explained steip by step implementation of this project.
+There is a medium article which has explained step by step implementation of this project.
 <br />
 [Click here to read the full article](https://medium.com/@katramesh91/effortless-theming-in-swiftui-mastering-multiple-themes-and-best-practices-061113be6d3d)
 
