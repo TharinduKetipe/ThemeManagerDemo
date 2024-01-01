@@ -5,6 +5,6 @@ Now, managing styles & themes of iOS app is easiest than ever with SwiftUI. This
 ## Full Medium Article
 There is a medium article which has explained steip by step implementation of this project.
 <br />
-[Click here to read the full article](https://medium.com/@katramesh91/swift-fast-easy-api-mocking-simplifying-unit-testing-and-service-mocking-using-urlprotocol-ef7d1328fc63)
+[Click here to read the full article](https://medium.com/@katramesh91/effortless-theming-in-swiftui-mastering-multiple-themes-and-best-practices-061113be6d3d)
 
 <img src = "images/thumb.png" width ="500" />  
